@@ -1,3 +1,7 @@
+//Comentario de Autor (Santiago)
+//Comentario de Versión (1.0)
+//Te hace un circulo
+// return "Circulo [radio=" + radio + ", color=" + color + "]";
 public class SantiagoPerez_Circulo {
 
     

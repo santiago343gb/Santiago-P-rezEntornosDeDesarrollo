@@ -1,3 +1,7 @@
+//Comentario de Autor (Santiago)
+//Comentario de Versión (1.0)
+//Te hace un rectangulo
+// return "Rectángulo [Lado A = " + ladoA + ", Lado B = " + ladoB + ", Color = " + color + "]"
 public class SantiagoPerez_Rectangulo {
 
     
